@@ -1,0 +1,253 @@
+
+
+
+@font-face {
+    
+	@font-family: "Bebas Neue";
+	src: url('fonts/bebasneue_regular-webfont.woff2') format('woff2'), url('fonts/bebasneue_regular-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+body {
+  width: 80%;
+  margin: auto;
+  
+}
+
+
+.first-line {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	
+}
+
+.main-header {
+		
+	
+}
+
+input {
+	
+	width: 437px;
+	height: 33px;
+	font-size: 13px;
+	padding: 6px 0 4px 10px;
+	border: 1px solid ffffff;
+	
+	
+}
+
+
+
+.logo-text {
+	
+	font-family: "Lobster 1.4";
+	font-size: 49px;
+	color: #3cc3b5;
+}
+
+
+.basket {
+	display: flex;
+	
+}
+
+.basket-text {
+	color: #a1a1a1;
+	font-family: "Bebas Neue", "Arial", sans-serif;
+	font-size: 33px;
+	margin-left: 15px;
+}
+
+.main-nav
+
+{
+	text-align: center;
+	text-transform: uppercase;
+	background-color: #4ccfc1;
+	text-decoration: none;
+	color: #ffffff;
+	font-family: "Bebas Neue", "Arial", sans-serif;
+	
+}
+
+.man-nav ul {
+	
+	
+}
+
+.main-nav li
+
+{
+	display: inline-block;
+	list-style: none;
+	border-left: 2px solid white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-right: 20px
+	
+}
+
+
+
+.main-nav a
+
+{
+	text-transform: uppercase;
+	background-color: #4ccfc1;
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 21px;
+	
+}
+
+.link-home {
+	border-left: none;
+	
+}
+
+
+
+.first-slider-heading
+
+{
+	font-family: "Bebas Neue", "Arial", sans-serif;
+	color: #ffffff;
+	font-size: 61px;
+}
+
+.first-slider-text
+
+{
+	font-family: "Open Sans", "Arial", sans-serif;
+	color: #ffffff;
+	font-size: 17px;
+}
+
+.button-shop-now {
+	background: #4ccfc1;
+	color: #ffffff;
+	border-radius: 3px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 13px;
+	padding-right: 13px;
+	text-transform: uppercase;
+	border: 2px solid #ffffff;
+	font-family: "Bebas Neue", "Arial", sans-serif;
+	font-size: 27px;
+}
+
+
+.first-slider {
+	background-color: #41c7ba;
+	
+}
+
+.second-slider {
+	background-color: #ffffff;
+	
+}
+
+.products-heading {
+	background-color: #3fc5ba;
+	color: #ffffff;
+	font-family: "Bebas Neue", "Arial", sans-serif;
+	font-size: 31px;
+}
+
+.products-description {
+	color: #afafaf;;
+	font-family: "Bebas Neue", "Arial", sans-serif;
+	font-size: 27px;
+}
+
+.products-price {
+	color: #afafaf;
+	font-family: "Bebas Neue", "Arial", sans-serif;
+	font-size: 27px;
+}
+
+
+
+.button-buy-now {
+	background: #3cc395;
+	color: #ffffff;
+	border-radius: 3px;
+	border: none;
+	padding: 4px;
+	text-transform: uppercase;
+	font-family: "Bebas Neue", "Arial", sans-serif;
+	font-size: 20.19px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+	
+}
+
+
+.footer-heading {
+	font-family: "Bebas Neue", "Arial", sans-serif;
+	font-size: 27px;
+	
+}
+
+.footer-columns li
+
+{
+	list-style: none;
+}
+
+
+.footer-columns {
+	background-color: #41c1b4;
+	color: #ffffff;
+}
+
+.footer-columns a
+
+{
+	font-family: "Open Sans", "Arial", sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+
+
+.copyright {
+	background-color: #3fc2b0;
+	color: #ffffff;
+	font-family: "Open Sans", "Arial", sans-serif;
+	font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
